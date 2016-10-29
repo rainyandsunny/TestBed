@@ -5,9 +5,9 @@
     android:id="@+id/activity_list_view_demo"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.swjtu.deanstart.testbed.ListViewDemoActivity">
+    >
 
-    <ListView
+    <com.swjtu.deanstar.testbed.view.MyListView
         android:id="@+id/listview"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
